@@ -1,0 +1,72 @@
+  h1, h2, ul{
+	margin: 0;
+	padding: 0;
+}
+#header {
+	background-color: #35424a;
+	border-bottom: 5px solid coral;
+}
+#header h1 {
+	color: #fff;
+	font-family: sans-serif;
+	padding: 15px 0;
+	display: inline-block;
+
+}
+#header .logo {
+	color: coral;
+}
+ .navbar {
+	float: right;
+}
+ .navbar li {
+	display: inline;
+
+}
+ .navbar li a {
+	text-decoration: none;
+	color: #fff;
+	font-family: sans-serif;
+	padding: 25px 15px;
+	display: inline-block;
+}
+ .navbar li a :hover {
+	color: coral;
+}
+ .container {
+	width: 70%;
+	margin: auto;
+}
+#showcase{
+	
+	background-image: url(cat.jpg);
+	background-position: center; right: 
+	min-height: 300px;
+}
+#showcase h1 {
+color: #fff;
+font-size: 50px;
+font-family: sans-serif;
+padding-top: 80px;
+padding-bottom: 80px;
+text-align: center;
+}
+table,
+	th,
+	td{
+			padding: 10px;
+			border: 1px solid black;
+			border-collapse: collapse;
+		}
+
+ .Royxat {
+
+	text-align: center;
+	background-color: grey;
+	color: black;
+	padding: 2px
+}
+.Royxatlar {
+	text-align: left;
+	color: maroon;
+	}
